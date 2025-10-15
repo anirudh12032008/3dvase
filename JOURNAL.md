@@ -10,9 +10,15 @@ This is my journal of the design and building process of **3D Vase**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/519).
 
 
-## 10/15/2025 - Created a new foam for my vase  
+## 10/15/2025 3 PM - Created a new foam for my vase  
 
 So I used youtube and learned more about vase and foam tool and then started using foam tool! I got to know about diameter and height faces and how you can use symmetry to make things easily and learned about a new thing and pressing and holding ALT can do extrude! now I got a little bit vase looking thing :yay: :)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--96a9fd819b9545873c0cad27b0c4da81527bb061/image.png)
+  
+
+## 10/15/2025 4 PM - Gave it a good shape!  
+
+As I got to know about form tools I started exploring them and while learning I got to know about bulging and to make crease! 
+So I continued designing the current thing!! Initial when trying to drag and make a good shape I got a fusion error of overlapping and shit and I was confused asf :( :sob: but then I just tried fixing it but no help and idk why that happened but I just undo and redo and got back and redo and then this is what I have right now![Untitled.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--daa108d6464a8de7c130f79c727beb4b0f813fb7/Untitled.png)
   
 
