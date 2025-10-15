@@ -22,3 +22,14 @@ As I got to know about form tools I started exploring them and while learning I 
 So I continued designing the current thing!! Initial when trying to drag and make a good shape I got a fusion error of overlapping and shit and I was confused asf :( :sob: but then I just tried fixing it but no help and idk why that happened but I just undo and redo and got back and redo and then this is what I have right now![Untitled.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--daa108d6464a8de7c130f79c727beb4b0f813fb7/Untitled.png)
   
 
+## 10/15/2025 5 PM - Made the spiral and filled volume!  
+
+So I continued working on the shape and the spiral thing!
+First I fixed my ugly looking vase by changing the bulges for each layer seperately I didin't used any fix measurements just played around and found the good looking ones! :hehehehe:
+then I started to work on the spiral which I didn't knew how so I went to YT and found that I needed to rotate in the edit form tab and then I used the boundary fill to make a 3D model of it and made 2 offset planes :yay: now it looks way more good tbh
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--d40d708185814511daf732468da094453e30080d/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMyMywicHVyIjoiYmxvYl9pZCJ9fQ==--cb979157f50b8313d230f32599bfb1abc89371e9/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--e8a6da50ccfb29cf7b5ece135b1af2f03bdb59b9/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--03a69927d16a0ba6576a00dd0122a0fd863d8840/image.png)
+  
+
