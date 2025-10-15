@@ -33,3 +33,22 @@ then I started to work on the spiral which I didn't knew how so I went to YT and
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--03a69927d16a0ba6576a00dd0122a0fd863d8840/image.png)
   
 
+## 10/15/2025 6 PM - Completed the full vase!!!  
+
+**Completed the full vase!!!**
+worked on a little bit improving the design and then started to make the hole!
+this was to most difficult thing as I tried using offset but things really fucked up and fusion started to gave me unwanted errors :(
+Then I tried using the spline tool and it did alot of work easily :yay: I made a rough spline and then used the revolve to cut out the cyckinder or whatever you name that shape lol
+Made it into the bambu slicer and then set a 3 wall cause I can't risk breaking it :prayge: and I don't want it to fell with wind :) 
+the ending part was again abit boring and irritating to get good shapes and especially spline idk why it just turns the opposite way :cry:
+**_now its all done yayyy_**
+
+printables link - https://www.printables.com/model/1445792-3d-vase
+
+( did some more changes after uploading to printables too but I'll update that once I do my print and do any more changes needed )
+
+![vase v2.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--0f9ffe19d16fe6f19f291fedf9f9faf072d25d97/vase%20v2.png)
+![vase v2 2.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--5598dfd67660e0c72ef0b232e09e3c91a8a25918/vase%20v2%202.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--4be769a21232cb9e65fc13ed914b664a8bd546a2/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMzMywicHVyIjoiYmxvYl9pZCJ9fQ==--3ee5b919b1778d9f9ba684870be58f786e03b5d1/image.png)  
+
